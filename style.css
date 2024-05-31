@@ -1,0 +1,49 @@
+.box1{
+    height:350px;
+    width:650px;
+    border:none;
+    text-align:center;
+    background-color:white;
+    border-radius:10px;
+    box-sizing:border-box;
+    margin:auto;
+    position:absolute;
+    top:150px;
+    left:350px;
+    }
+    .second{
+    height:230px;
+    width:230px;
+    border:none;
+    position:relative;
+    bottom:185px;
+    right:30px;
+    border-radius:10px;
+    background-image: linear-gradient(to right,orange,red)
+    }
+    body{
+        background-image: linear-gradient(to right,yellow,red)
+    }
+    p{
+        text-align:center;
+        margin-top:70px;
+        margin-right:40px;
+    }
+    .dot{
+        text-align:start;
+        margin-left:230px;
+        margin-top:10px;
+    }
+    h1{
+        text-align:center;
+        margin-left:55px;
+    }
+    button{
+        height:40px;
+        width:125px;
+        margin-right:30px;
+        border-radius:25px;
+        border:none;
+        color:white;
+        background-image: linear-gradient(to right,yellow,red)
+    }
